@@ -12,3 +12,12 @@ combineReducers 接收一个对象并返回一个函数，当 combineReducers �
 Dispatch用来分发action  然后通过reducer 函数修改应用状态
 action ---> dispatcher ---> middleware 1 ---> middleware 2 ---> reducers
 
+/*
+    var anyMiddleware = function ({ dispatch, getState }) {
+        return function(next) {
+            return function (action) {
+                // 你的中间件业务相关代码
+            }
+        }
+    }
+*/
