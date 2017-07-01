@@ -23,3 +23,4 @@ action ---> dispatcher ---> middleware 1 ---> middleware 2 ---> reducers
 */
 redux 介绍
 https://github.com/react-guide/redux-tutorial-cn
+https://developer.mozilla.org/zh-CN
