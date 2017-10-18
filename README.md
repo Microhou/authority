@@ -30,3 +30,5 @@ https://github.com/ruanyf/jstraining/tree/master/docs
 
 
 http://www.bootcss.com/ 中文网站
+算法
+http://blog.jobbole.com/67348/
