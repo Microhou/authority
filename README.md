@@ -32,5 +32,9 @@ https://github.com/ruanyf/jstraining/tree/master/docs
 http://www.bootcss.com/ 中文网站
 算法
 http://blog.jobbole.com/67348/
+
 高性能javascript
 https://mzkmzk.gitbooks.io/read/content/gao_xing_neng_javascript.html
+
+gitbook
+https://www.gitbook.com/book/leohxj/a-programmer-prepares/details
